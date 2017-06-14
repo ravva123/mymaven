@@ -7,6 +7,6 @@
 <title>My New Maven Project</title>
 </head>
 <body>
-<h1>mynewmaven</h1>
+<h1>MyFirstgitmavenproject</h1>
 </body>
 </html>
